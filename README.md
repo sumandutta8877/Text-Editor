@@ -2,6 +2,10 @@
 Personalised Text Editor
 
 # Make Commands
+For Text Editor
+```
+make editor
+```
 For Text Viewer
 ```
 make viewer
